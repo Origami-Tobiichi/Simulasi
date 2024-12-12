@@ -1,0 +1,17 @@
+[
+  {
+    "question": "ICAO Annex 17 mengatur tentang ...",
+    "options": ["aerodromes", "heliport", "Security", "avation Security Manual"],
+    "answer": 2
+  },
+  {
+    "question": "Penerbangan sipil diatur dalam undang-undang ...",
+    "options": ["1 Tahun 2009", "22 Tahun 2009", "17 Tahun 2008", "23 Tahun 2007"],
+    "answer": 0
+  },
+  {
+    "question": "Program Keamanan Penerbangan Nasional diatur dalam..",
+    "options": ["PM 80 Tahun 2017", "PM 51 Tahun 2020", "KM 211 Tahun 2020", "PM 137 Tahun 2015"],
+    "answer": 1
+  }
+]
